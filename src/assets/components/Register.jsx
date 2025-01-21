@@ -25,7 +25,7 @@ const Register = ({user2}) => {
       noValidate
       autoComplete="off"
     >
-         <h3>STUDENT REGISTRATION FORM</h3>
+         <h3>sTUDENT rEGISTRATION FORM</h3>
 
        
       <div>
